@@ -15,3 +15,6 @@ Requests is a HTTP library for the Python programming language. The goal of the 
 Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.
 1. [Pathlib](https://docs.python.org/3/library/pathlib.html)  
 This module offers classes representing filesystem paths with semantics appropriate for different operating systems.   
+1. [datatime]  
+1. [json]  
+1. [zipfile]  

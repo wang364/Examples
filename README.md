@@ -20,3 +20,4 @@ This module offers classes representing filesystem paths with semantics appropri
 1. [zipfile]  
 1. [yagmail]  
 1. [os]  
+1. [pandas]  
